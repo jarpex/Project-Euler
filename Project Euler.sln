@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project Euler", "Project Euler\Project Euler.vcxproj", "{C07ADE2B-D0C6-4CD0-8527-E7507790C6AB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. Multiples of 3 or 5", "Project Euler\Project Euler.vcxproj", "{C07ADE2B-D0C6-4CD0-8527-E7507790C6AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. Even Fibonacci numbers", "2. Even Fibonacci numbers\2. Even Fibonacci numbers.vcxproj", "{AE49660F-48FB-4282-AD62-A87D4BCA26FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{C07ADE2B-D0C6-4CD0-8527-E7507790C6AB}.Release|x64.Build.0 = Release|x64
 		{C07ADE2B-D0C6-4CD0-8527-E7507790C6AB}.Release|x86.ActiveCfg = Release|Win32
 		{C07ADE2B-D0C6-4CD0-8527-E7507790C6AB}.Release|x86.Build.0 = Release|Win32
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Debug|x64.ActiveCfg = Debug|x64
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Debug|x64.Build.0 = Debug|x64
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Debug|x86.Build.0 = Debug|Win32
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Release|x64.ActiveCfg = Release|x64
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Release|x64.Build.0 = Release|x64
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Release|x86.ActiveCfg = Release|Win32
+		{AE49660F-48FB-4282-AD62-A87D4BCA26FE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
