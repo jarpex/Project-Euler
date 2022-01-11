@@ -26,6 +26,6 @@ int main() {
 			}
 		}
 	}
-	printf("The result is %lld.\n", result);	
+	printf("The result is %lld.\n", result);
 	return 0;
 }
